@@ -1,10 +1,10 @@
 * Spring 2023 - Lab 03
 
-* Last name:
+* Last name: Chen
 
-* First name:
+* First name: James
 
-* GitHub username:
+* GitHub username: jameschen2004
 
 * Notes:
 
